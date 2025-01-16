@@ -15,9 +15,11 @@ I was fortunate enough to stay at the historic city through the program
 
 {% include image.html image="../assets/img/posts/JingDeZhen/market.jpg" %}
 
+![market](../assets/img/posts/JingDeZhen/market.jpg)
+
 - **Local Markets**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi. 
 
-{% include image.html image="../assets/img/posts/JingDeZhen/vender.jpg" %}
+![vender](../assets/img/posts/JingDeZhen/vender.jpg)
 
 - **Workshops**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi. 
 
