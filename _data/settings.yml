@@ -44,8 +44,8 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: false
-google-analytics-g: 'G-7E48GMRZLT'
+
+### I plugged straight into analytics.html ###
 
 
 
