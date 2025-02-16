@@ -1,0 +1,36 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Sass
+.sass-cache/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Bundler
+vendor/bundle/
+
+# Byebug
+.byebug_history
+
+# dotenv
+.env
+
+# VS Code
+.vscode/
