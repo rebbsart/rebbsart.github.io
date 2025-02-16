@@ -717,7 +717,7 @@ svg {
 }
 
 h3 {
-  color: #e1c285;
+  color: #e1af85;
   text-align: center;
   padding: 100px 0 30px;
 }
@@ -738,7 +738,7 @@ section:nth-child(odd) {
   padding-bottom: 100px;
 }
 section:nth-child(odd) h3 {
-  color: #d7ae5c;
+  color: #d7945c;
 }
 
 h3 {
