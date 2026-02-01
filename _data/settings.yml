@@ -11,6 +11,10 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
+- {name: 'Fengsui Book',   url: 'fengsui_book'}
+- {name: 'Displaced Harmony',   url: 'displaced_harmony_sculpture'}
+- {name: 'Salt Porcelian Teapot',   url: 'salt_porcelian_teapot'}
 - {name: 'Website still in progress',   url: 'cups'}
 
 #-------------------------------
