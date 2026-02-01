@@ -1,14 +1,22 @@
 <div class="image-container">
-  <a href="{{ site.github.url }}/assets/img/{{ include.image }}" target="_blank">
+  <!-- Unique ID for the checkbox based on the image name to handle multiple images on one page -->
+  <input type="checkbox" id="zoom-{{ include.image }}" class="zoom-checkbox" style="display:none;">
+  
+  <label for="zoom-{{ include.image }}" class="zoom-label">
     <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="Avatar" class="image">
     <div class="overlay">
       <div class="text">
         {% if include.text %}
-          {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          {{ include.text }} <i class="fa fa-search-plus" aria-hidden="true"></i>
         {% else %}
-          View Image <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          Enlarge <i class="fa fa-search-plus" aria-hidden="true"></i>
         {% endif %}
       </div>
     </div>
-  </a>
+  </label>
+
+  <div class="lightbox">
+    <label for="zoom-{{ include.image }}" class="close-lightbox"></label>
+    <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="Enlarged Image">
+  </div>
 </div>

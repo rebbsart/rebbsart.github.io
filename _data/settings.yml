@@ -12,20 +12,18 @@ menu:
 
 projects:
 - {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
-- {name: 'Fengsui Book',   url: 'fengsui_book'}
+- {name: 'Fengshui Book',   url: 'fengsui_book'}
 - {name: 'Displaced Harmony',   url: 'displaced_harmony_sculpture'}
-- {name: 'Salt Porcelian Teapot',   url: 'salt_porcelian_teapot'}
+- {name: 'Salt Porcelain Teapot',   url: 'salt_porcelian_teapot'}
 - {name: 'Website still in progress',   url: 'cups'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/rebbsart'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github',    link: 'https://github.com/rebbsart'}
+- {icon: 'envelope',  link: 'mailto:mailto:rzhang944@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

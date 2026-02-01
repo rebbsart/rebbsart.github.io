@@ -1,52 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2026-02-01T04:56:41+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">rebbsart</title><subtitle>All my projects!</subtitle><author><name>Rebecca Zhang</name></author><entry><title type="html">Woodfiring</title><link href="http://0.0.0.0:4000/Woodfiring" rel="alternate" type="text/html" title="Woodfiring" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T00:00:00+00:00</updated><id>http://0.0.0.0:4000/Woodfiring</id><content type="html" xml:base="http://0.0.0.0:4000/Woodfiring"><![CDATA[<h2 id="woodfiring">Woodfiring</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://0.0.0.0:4000/" rel="alternate" type="text/html" /><updated>2026-02-01T05:09:11+00:00</updated><id>http://0.0.0.0:4000/feed.xml</id><title type="html">rebbsart</title><subtitle>All my projects!</subtitle><author><name>Rebecca Zhang</name></author><entry><title type="html">Woodfiring</title><link href="http://0.0.0.0:4000/Woodfiring" rel="alternate" type="text/html" title="Woodfiring" /><published>2025-01-16T00:00:00+00:00</published><updated>2025-01-16T00:00:00+00:00</updated><id>http://0.0.0.0:4000/Woodfiring</id><content type="html" xml:base="http://0.0.0.0:4000/Woodfiring"><![CDATA[<h2 id="woodfiring">Woodfiring</h2>
 
 <p>A quick post about woodfiring!</p>
 
-<p><img src="../assets/img/posts/Woodfiring/woodkiln.jpg" alt="Wood Kiln" /></p>]]></content><author><name>Rebecca Zhang</name></author><summary type="html"><![CDATA[Woodfiring]]></summary></entry><entry><title type="html">Jingdezhen</title><link href="http://0.0.0.0:4000/JingDeZhen" rel="alternate" type="text/html" title="Jingdezhen" /><published>2024-09-03T00:00:00+00:00</published><updated>2024-09-03T00:00:00+00:00</updated><id>http://0.0.0.0:4000/JingDeZhen</id><content type="html" xml:base="http://0.0.0.0:4000/JingDeZhen"><![CDATA[<h1 id="my-time-at-jing-de-zhen-china">My Time at Jing De Zhen, China</h1>
-
-<h2 id="porcelain-capital">Porcelain Capital</h2>
-<p>Jing De Zhen is known as the “Porcelain Capital” and for good reason!
-I was fortunate enough to stay at the historic city through the program</p>
-
-<h2 id="day-1-arrival-and-first-impressions">Day 1: Arrival and First Impressions</h2>
-<ul>
-  <li><strong>Arrival</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-  <li><strong>Accommodation</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-  <li><strong>First Meal</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-</ul>
-
-<h2 id="day-2-exploring">Day 2: Exploring</h2>
-<ul>
-  <li><strong>Porcelain Museum</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-</ul>
-
-<p><img src="../assets/img/posts/JingDeZhen/market.jpg" alt="market" /></p>
-
-<ul>
-  <li><strong>Local Markets</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-</ul>
-
-<p><img src="../assets/img/posts/JingDeZhen/vender.jpg" alt="vender" /></p>
-
-<ul>
-  <li><strong>Workshops</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-</ul>
-
-<h2 id="day-3-learning-from-the-master">Day 3: Learning from the Master</h2>
-<ul>
-  <li><strong>Historical Sites</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-  <li><strong>Local Cuisine</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</li>
-</ul>
-
-<h2 id="day-4">Day 4:</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</p>
-
-<h2 id="conclusion">Conclusion</h2>
-<p>Reflection over all experience. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus. Etiam in hendrerit ex. Fusce iaculis luctus dolor, a convallis ligula bibendum non. Quisque nec nibh quam. Duis lectus erat, eleifend a odio non, ultricies porta nisi.</p>
-
-<h2 id="tips-for-the-program">Tips for the program</h2>
-<ul>
-  <li><strong>Travel Tips</strong>: Provide any useful travel tips, such as what to pack, 
-how to get around, and any cultural etiquette to be aware of.</li>
-  <li><strong>Must-See Attractions</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet lacinia dolor, a hendrerit enim. Phasellus condimentum sodales auctor. Praesent quis vulputate tellus.</li>
-</ul>]]></content><author><name>Rebecca Zhang</name></author><summary type="html"><![CDATA[My Time at Jing De Zhen, China]]></summary></entry></feed>
+<p><img src="../assets/img/posts/Woodfiring/woodkiln.jpg" alt="Wood Kiln" /></p>]]></content><author><name>Rebecca Zhang</name></author><summary type="html"><![CDATA[Woodfiring]]></summary></entry></feed>
