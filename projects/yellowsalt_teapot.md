@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Yellowsalt Teapot'
+title: 'Yellow Salt Teapot'
 ---
 
 <!-- Gotta use format below for images for Projects -->

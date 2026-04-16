@@ -11,11 +11,18 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
 - {name: 'Fengshui Book',   url: 'fengsui_book'}
+- {name: 'Social Spatial Relations',   url: 'social_spatial_relations'}
 - {name: 'Displaced Harmony',   url: 'displaced_harmony_sculpture'}
+- {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
+- {name: 'Wood Fired Teapot',   url: 'round_teapot'}
 - {name: 'Salt Porcelain Teapot',   url: 'salt_porcelian_teapot'}
-- {name: 'Website still in progress',   url: 'cups'}
+- {name: 'Wood Fired Gaiwan',   url: 'wood_fired_gaiwan'}
+- {name: 'Yellow Salt Gaiwan',   url: 'yellow_salt_gaiwan'}
+- {name: 'Celadon Gaiwan',   url: 'celadon_gaiwan'}
+- {name: '',   url: 'porcelain_bowls'}
+
+
 
 #-------------------------------
 # Contact Section

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Fengsui Book'
+title: 'Feng-Shui Book'
 ---
 
 
@@ -33,7 +33,7 @@ title: 'Fengsui Book'
   </div>
 
   <!-- Right Column: Text Information (Sticky) -->
-  <div style="flex: 1 1 50%; max-width: 50%; position: sticky; top: 2rem; font-size: 1.1em; line-height: 1.6;">
+  <div style="flex: 1 1 50%; max-width: 50%; position: sticky; top: 2rem; font-size: 0.9em; line-height: 1.6;">
     <p><strong>Feng-Shui</strong><br>Commercial and handmade paper<br>8"x 6.5"<br>2025</p>
     <p>Feng-shui is both an art and a philosophy that seeks to create harmonious and auspicious environments by introducing specific positive changes and adjustments to our surroundings. However, at its core, this evolved ancient practice is about cultivating balanced, wholesome relationships—between yin and yang, qi and the five elements, and humanity and nature. It is a philosophy deeply rooted in Taoist origins, with theoretical foundations that present nature as sentient and animated by energies.</p>
     <p>With that in mind, I became interested in translating feng-shui principles and philosophy into book design, and as a result came the creation of this book. Each spread is carefully designed with fengshui in mind, with ideas of harmony, balance, stillness, movement, and energy.</p>
