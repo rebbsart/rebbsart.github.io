@@ -1,0 +1,50 @@
+.project-split-container
+  display: flex
+  flex-direction: row
+  max-width: 1200px
+  margin: 0 auto
+  padding: 30px
+  gap: 40px
+  align-items: flex-start
+
+.project-split-left
+  flex: 0 0 60%
+  display: flex
+  flex-direction: column
+  gap: 30px
+
+  img
+    max-width: 100%
+    height: auto
+    display: block
+
+.project-split-right
+  flex: 0 0 35%
+  position: relative
+
+#project-sticky-content
+  position: sticky
+  top: 30px
+
+  .project-title
+    color: black
+    line-height: 1.2
+    margin-bottom: 10px
+    font:
+      weight: 700
+      size: 24px
+
+
+  p
+    margin-bottom: 20px
+    line-height: 1.6
+    color: #444
+
+@media (max-width: 768px)
+  .project-split-container
+    flex-direction: column-reverse
+  .project-split-left, .project-split-right
+    flex: 1 1 auto
+    width: 100%
+  #project-sticky-content
+    position: static

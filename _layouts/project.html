@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<section>
+  <div class="project-split-container">
+    
+    <div class="project-split-left" id="project-split-left">
+      <!-- Images go here -->
+    </div>
+    
+    <div class="project-split-right" id="project-split-right">
+      <div class="project-sticky-content" id="project-sticky-content">
+        <h4 class="project-title">{{ page.title }}</h4>
+        <!-- Text goes here -->
+      </div>
+    </div>
+    
+    <div id="project-raw-content" style="display: none;">
+      {{ content }}
+    </div>
+
+  </div>
+  
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const rawContent = document.getElementById("project-raw-content");
+  const leftCol = document.getElementById("project-split-left");
+  const rightColText = document.getElementById("project-sticky-content");
+  
+  if (rawContent) {
+    // 1. Move all .image-container elements explicitly
+    const imageContainers = rawContent.querySelectorAll('.image-container');
+    imageContainers.forEach(el => leftCol.appendChild(el));
+
+    // 2. Some people might use raw markdown images which wrap in <p> tagging.
+    // Let's identify <p> tags holding ONLY an image and move their images
+    const rawImages = rawContent.querySelectorAll('img');
+    rawImages.forEach(img => {
+      // if it's already in leftCol, ignore.
+      if (leftCol.contains(img)) return;
+      
+      const parent = img.parentElement;
+      leftCol.appendChild(img);
+      // clean up empty parent tags
+      if (parent && parent.tagName === 'P' && parent.innerText.trim() === '') {
+        parent.remove();
+      }
+    });
+
+    // 3. Move everything else (like <p>, <ul>, etc.) to the right col
+    while (rawContent.childNodes.length > 0) {
+      rightColText.appendChild(rawContent.childNodes[0]);
+    }
+    
+    rawContent.remove();
+  }
+});
+</script>
