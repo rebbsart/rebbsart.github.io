@@ -3,6 +3,24 @@ layout: post
 title: 'Fengsui Book'
 ---
 
+
+Feng-Shui
+Commercial and handmade paper
+8"x 6.5"
+2025 
+
+Feng-shui is both an art and a philosophy that seeks to create harmonious and auspicious environments by introducing specific positive changes and adjustments to our surroundings. However, at its core, this evolved ancient practice is about cultivating balanced, wholesome relationships—between yin and yang, qi and the five elements, and humanity and nature. It is a philosophy deeply rooted in Taoist origins, with theoretical foundations that present nature as sentient and animated by energies. 
+
+With that in mind, I became interested in translating feng-shui principles and philosophy into book design, and as a result came the creation of this book. Each spread is carefully designed with fengshui in mind, with ideas of harmony, balance, stillness, movement, and energy. 
+
+The cover of this book reflects feng-shui principles of protection, where the front view of a site can not be blocked but protection is still required to cushion incoming forces.
+
+Fengshui, at its core, is the art of recognizing patterns of movement and stillness in the land. Additionally, in feng shui, time is not linear but cyclical. These factors heavily influence the design layout and underlying grid.
+
+​​In fengshui, different types of mountains and bodies of water hold distinct energies, and in this book, that concept is translated through material. A variety of paper is used - whether commercial or handmade with abaca and cotton pulp - each held a different energy.
+
+
+
 <!-- Gotta use format below for images for Projects -->
 {% include image.html image="projects/fengsui_book/thumbnail.jpg" %}
 

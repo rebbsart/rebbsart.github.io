@@ -7,6 +7,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "rebbsart"
-description: "All my projects!"
-author:      "Rebecca Zhang"
+title:		   "Rebecca S. Zhang"
+description: "Portfolio of Rebecca S. Zhang"
+author:      "Rebecca S. Zhang"
+url: "https://rebbszhang.com"

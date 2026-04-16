@@ -705,7 +705,7 @@ body {
   background: #fff;
   font-size: 14px;
   line-height: 1.6;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #666;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -839,7 +839,7 @@ footer .footer-wrap .social-media nav a:hover {
   cursor: pointer;
   display: block;
   width: 600px;
-  height: 300px;
+  height: 600px;
   margin: 0px auto 30px;
   position: relative;
   overflow: hidden;
@@ -902,7 +902,7 @@ footer .footer-wrap .social-media nav a:hover {
   }
   .project-container .project-unit {
     width: 80vw;
-    height: 40vw;
+    height: 80vw;
   }
 }
 body {
