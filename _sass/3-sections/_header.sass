@@ -1,8 +1,10 @@
 header
-  height: 90px
+  display: flex
+  align-items: center
+  justify-content: space-between
+  flex-wrap: wrap
+  padding: 20px 0
   .logo
-    float: left
-    margin: 30px
     font:
       size: 24px
       weight: 700
@@ -12,11 +14,12 @@ header
       &:hover
         color: $accent-color
   nav
-    float: right
-    margin: 30px 30px 0 0
+    display: flex
+    flex-wrap: wrap
+    align-items: center
+    gap: 20px
     a
       display: inline-block
-      margin-left: 20px
       color: rgba(0,0,0,1)
       font:
         size: 24px
@@ -26,14 +29,22 @@ header
 
 @media (max-width: 768px)
   header
+    padding: 15px 0
     .logo
-      margin: 10px 30px 0px 0px
+      font-size: 20px
     nav
-      margin: 0px
-      margin-top: 18px
-      float: left
+      gap: 15px
       a
-        margin-left: 0px
-        margin-right: 20px
+        font:
+          size: 18px
+
+@media (max-width: 480px)
+  header
+    padding: 10px 0
+    .logo
+      font-size: 18px
+    nav
+      gap: 12px
+      a
         font:
           size: 16px

@@ -20,8 +20,8 @@ RUN bundle install
 # Copy the rest of the application code into the image
 COPY . .
 
-# Expose port 3000 to the host
-EXPOSE 3000
+# Expose port 4000 to the host
+EXPOSE 4000
 
 # Command to run the Jekyll server
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "3000"]
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000"]

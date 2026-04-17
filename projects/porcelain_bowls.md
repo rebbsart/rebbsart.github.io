@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Porcelain Bowls'
 ---
 
 <!-- Gotta use format below for images for Projects -->
