@@ -13,14 +13,19 @@ menu:
 projects:
 - {name: 'Fengshui Book',   url: 'fengsui_book'}
 - {name: 'Social Spatial Relations',   url: 'social_spatial_relations'}
+- {name: 'Cyclical Ripples',   url: 'cyclical_ripples'}
+- {name: 'Displace Gaiwan',   url: 'displace_gaiwan'}
 - {name: 'Displaced Harmony',   url: 'displaced_harmony_sculpture'}
 - {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
-- {name: 'Wood Fired Teapot',   url: 'round_teapot'}
+- {name: 'Wood Fired Round Porcelain Teapot',   url: 'round_porcelain_teapot'}
+- {name: 'Wood Fired Overhead Handle Teapot',   url: 'wood_fired_overhead_handle_teapot'}
 - {name: 'Salt Porcelain Teapot',   url: 'salt_porcelian_teapot'}
 - {name: 'Wood Fired Gaiwan',   url: 'wood_fired_gaiwan'}
 - {name: 'Yellow Salt Gaiwan',   url: 'yellow_salt_gaiwan'}
 - {name: 'Celadon Gaiwan',   url: 'celadon_gaiwan'}
+- {name: 'Gradient Tea Cups',   url: 'gradient_tea_cups'}
 - {name: 'Porcelain Bowls',   url: 'porcelain_bowls'}
+
 
 
 
