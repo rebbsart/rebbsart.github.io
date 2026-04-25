@@ -15,7 +15,6 @@ projects:
 - {name: 'Social Spatial Relations',   url: 'social_spatial_relations'}
 - {name: 'Displaced Harmony',   url: 'displaced_harmony_sculpture'}
 - {name: 'Displace Gaiwan',   url: 'displace_gaiwan'}
-- {name: 'Cyclical Ripples',   url: 'cyclical_ripples'}
 - {name: 'Yellow Salt',   url: 'yellowsalt_teapot'}
 - {name: 'Wood Fired Round Porcelain Teapot',   url: 'round_porcelain_teapot'}
 - {name: 'Wood Fired Overhead Handle Teapot',   url: 'wood_fired_overhead_handle_teapot'}
